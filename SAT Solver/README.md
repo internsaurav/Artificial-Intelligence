@@ -1,4 +1,4 @@
-SAT Solver programming in Proposition Logic<br />
+# SAT Solver programming in Proposition Logic
 -Learned how to encode Satisfability problems using propositional logic. Implemented the DPLL
 algorithm to solve the SAT problem using Python.<br />
 -Implemented the Propositional-Logic-Resolution algorithm to draw inference about satisfability of
